@@ -23,3 +23,10 @@
 
 **Задача решена!**
 *Спасибо за внимание!*
+
+---
+---
+---
+Приложение:
+- блок схема 3 функции
+![blockDiagram](https://raw.githubusercontent.com/niger23/FinalWorkCSharp/main/blockDiagram.png)
